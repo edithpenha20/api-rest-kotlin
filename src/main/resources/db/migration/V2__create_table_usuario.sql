@@ -6,4 +6,3 @@ create table usuario(
 );
 
 insert into usuario values(1, 'Ana da Silva', 'ana@email.com');
-insert into usuario values(2, 'Lion', 'lion@email.com');
